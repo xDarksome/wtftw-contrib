@@ -6,7 +6,7 @@ authors = ["Simon Wollwage"]
 edition = "2018"
 
 [dependencies.wtftw]
-path = "../wtftw"
+git = "https://github.com/Kintaro/wtftw.git"
 
 [dependencies]
 bitflags = "1.2.1"
